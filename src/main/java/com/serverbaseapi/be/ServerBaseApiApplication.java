@@ -1,4 +1,4 @@
-package com.indextrown.serverbaseapi.be;
+package com.serverbaseapi.be;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
