@@ -35,4 +35,4 @@ EXPOSE 8080
 #    - java -jar app.jar 실행
 #    - ENTRYPOINT는 컨테이너 메인 프로세스
 # -----------------------------------------------------------
-ENTRYPOINT ["java","-jar","app.jar"]
+ENTRYPOINT ["java", "-jar", "app.jar", "--spring.profiles.active=prod"]
