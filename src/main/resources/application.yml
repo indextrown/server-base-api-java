@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: server-base-api
-
-  profiles:
-    active: local   # 기본값 (IntelliJ 실행하면 local)
